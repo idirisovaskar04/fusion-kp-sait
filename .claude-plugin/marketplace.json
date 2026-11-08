@@ -6,7 +6,7 @@
     {
       "name": "fusion-kp-sait",
       "source": "./plugins/fusion-kp-sait",
-      "version": "1.1.0",
+      "version": "1.2.0",
       "description": "Разбирает Instagram и сайт клиента, находит боли ниши и собирает премиальный сайт-КП ИИ-агента Fusion AI с выкладкой на Vercel"
     }
   ]
