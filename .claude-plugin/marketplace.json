@@ -1,0 +1,13 @@
+{
+  "name": "fusion-kp-sait",
+  "description": "Сайт-КП под клиента одной командой — для партнёров Fusion AI",
+  "owner": { "name": "Fusion AI" },
+  "plugins": [
+    {
+      "name": "fusion-kp-sait",
+      "source": "./plugins/fusion-kp-sait",
+      "version": "1.0.0",
+      "description": "Разбирает Instagram и сайт клиента, находит боли ниши и собирает премиальный сайт-КП ИИ-агента Fusion AI с выкладкой на Vercel"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "fusion-kp-sait",
+  "version": "1.0.0",
+  "displayName": "Fusion: сайт-КП под клиента",
+  "description": "Одна команда «сайт для @инстаграм»: разведка клиента, боли ниши, стиль по его бренду, сайт-презентация ИИ-агента, выкладка на Vercel и скриншоты",
+  "author": { "name": "Fusion AI" },
+  "keywords": ["fusion", "kp", "landing", "sales", "russian"]
+}
